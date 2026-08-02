@@ -45,7 +45,7 @@ Agentic AI systems, LLM fine-tuning, and applied computer vision — building to
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyshrivastava&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyshrivastava&layout=compact&theme=github_dark&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shreyshrivastava&theme=github-dark-blue&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=shreyshrivastava&theme=github-dark-blue&hide_border=true)
 
 </div>
 
