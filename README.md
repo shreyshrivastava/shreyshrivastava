@@ -1,49 +1,58 @@
-# 👋 Hi, I'm Shrey Shrivastava
+<div align="center">
 
-🚀 **AI/ML Engineer** | 🧠 **Applied Researcher** | 📊 **Data-Driven Problem Solver**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Agentic+AI+%7C+LLM+Fine-tuning;Computer+Vision+%7C+NLP" alt="Typing SVG" />
 
-I build machine learning systems that go beyond prototypes to deliver real-world impact. From intelligent automation to fine-tuned LLMs, my work bridges research and production. I'm passionate about creating scalable, ethical AI that helps people make better decisions, faster.
+# Shrey Shrivastava
 
----
+AI Engineer building end-to-end systems across agentic AI, LLM fine-tuning, NLP, and computer vision — from research to production.
 
-## 🧠 Applied AI & ML Projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shreyshrivastava.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-shrivastava1)
+[![ORCID](https://img.shields.io/badge/ORCID-58A6FF?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5273-2842)
+[![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrey.shrivastava@yahoo.com)
 
-- 🔍 **ResumeTracker (ATS)** – ML-powered resume parser and ranker for smarter hiring workflows  
-- 👁️ **Pupil Anomaly Detection** – Computer vision pipeline for real-time eye tracking & abnormality detection  
-- 🧾 **Claim Detection & Search** – NLP pipeline to detect and semantically search factual claims  
-- 🦙 **llama2-prompt-exploration** – Fine-tuning and prompt engineering on LLaMA 2 models with deep evaluations
-
----
-
-## 📍 Context-Aware & UX-Focused Apps
-
-- 🗺️ **LocalLore** – A geolocation-based cultural storytelling app blending history and AI  
-- 📊 **Slack Website Stats Bot** – Automated web analytics reporting via Slack for better product insights  
+</div>
 
 ---
 
-## 📈 Data & Computer Vision
+### 🎓 Education
+MSc Artificial Intelligence — Queen Mary University of London
+BTech Computer Science — Symbiosis University of Applied Sciences
 
-- 🦠 **COVID-19 Data Analysis** – Forecasting and visualizations using Python, NumPy, and Matplotlib  
-- 🧍‍♂️ **YOLOv5 Human Detection** – CCTV-based object detection system for real-time surveillance  
+### 🎯 Current focus
+Agentic AI systems, LLM fine-tuning, and applied computer vision — building tools that go from research to something deployable.
 
----
-
-## 🛠️ Tech Stack
-
-`Python` · `C++` · `PyTorch` · `TensorFlow` · `LLMs` · `Flask` · `SQL` · `OpenCV` · `Docker` · `scikit-learn`  
+> 📌 **Check out my pinned repositories above** for a closer look at my featured work — including an AI healthcare intelligence engine, an agentic fraud-detection system, and published forecasting research.
 
 ---
 
-## 📚 Research + Collaboration
+## 🛠️ Tech stack
 
-Published in computer vision and NLP fields, I enjoy bridging academic research with practical tools. Always up for meaningful AI collaborations.
+![Python](https://img.shields.io/badge/-Python-58A6FF?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-58A6FF?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-58A6FF?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-58A6FF?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-58A6FF?style=flat-square&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs%20%2F%20LLaMA-58A6FF?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-58A6FF?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-58A6FF?style=flat-square&logo=flask&logoColor=white)
 
 ---
 
-## 🌐 Connect with me
+## 📊 GitHub stats
 
-- 🌐 [Portfolio Website](https://shreyshrivastava.github.io)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shreyshrivastava01)  
-- 🧪 [ORCID](https://orcid.org/0000-0001-5273-2842)  
-- 💻 [GitHub](https://github.com/shreyshrivastava)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyshrivastava&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyshrivastava&layout=compact&theme=github_dark&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shreyshrivastava&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to AI Engineer roles and collaborations — reach out via any link above.*
+
+</div>
