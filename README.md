@@ -88,17 +88,7 @@ Agentic AI systems, LLM fine-tuning, and applied computer vision — building to
 
 ---
 
-## GitHub stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyshrivastava&show_icons=true&theme=github_dark&hide_border=true&title_color=6EE7B7&icon_color=58A6FF&text_color=dae5e4&bg_color=0b1515)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyshrivastava&layout=compact&theme=github_dark&hide_border=true&title_color=6EE7B7&text_color=dae5e4&bg_color=0b1515)
-![Streak Stats](https://streak-stats.demolab.com/?user=shreyshrivastava&theme=github-dark-blue&hide_border=true&background=0B1515&ring=6EE7B7&fire=58A6FF&currStreakLabel=6EE7B7)
-
-</div>
-
----
 
 ## Contribution snake
 
@@ -109,8 +99,6 @@ Agentic AI systems, LLM fine-tuning, and applied computer vision — building to
 <!--END_SECTION:snake-->
 
 </div>
-
-> The snake animation above needs a one-time setup: a GitHub Action that generates it automatically every day. See setup notes below.
 
 ---
 
