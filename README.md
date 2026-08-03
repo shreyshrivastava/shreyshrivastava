@@ -88,13 +88,11 @@ Agentic AI systems, LLM fine-tuning, and applied computer vision — building to
 
 
 
-## Contribution snake
+
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/shreyshrivastava/shreyshrivastava/output/github-contribution-grid-snake.svg" width="100%" />
-<!--END_SECTION:snake-->
+
 
 </div>
 
