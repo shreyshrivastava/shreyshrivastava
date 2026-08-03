@@ -126,278 +126,121 @@
             @apply px-md py-xs rounded-full text-label-caps border border-outline-variant transition-all;
         }
         .bg-blob {
-            position: absolute;
-            filter: blur(80px);
-            opacity: 0.15;
-            z-index: -1;
-            border-radius: 50%;
-        }
-    </style>
+            position: absolute;<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:93C5FD&height=180&section=header&text=Shrey%20Shrivastava&fontSize=42&fontColor=1C1B1F&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer&descAlignY=62&descSize=18" />
 
+<div align="center">
 
-<!-- Visual Accents: Blobs -->
-<div class="bg-blob w-[500px] h-[500px] bg-primary top-[-200px] left-[-100px]"></div>
-<div class="bg-blob w-[400px] h-[400px] bg-secondary top-[400px] right-[-100px]"></div>
-<div class="bg-blob w-[600px] h-[600px] bg-tertiary bottom-[-200px] left-1/2 -translate-x-1/2"></div>
-<!-- Header Banner -->
-<header class="relative w-full min-h-[500px] flex flex-col items-center justify-center border-b border-outline-variant overflow-hidden">
-<div class="absolute inset-0 z-0 opacity-20 pointer-events-none">
-<svg class="w-full h-full" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
-<path d="M0,200 C150,100 350,300 500,200 C650,100 850,300 1000,200 L1000,400 L0,400 Z" fill="url(#wave-grad-top)">
-<animate attributeName="d" dur="15s" repeatCount="indefinite" values="M0,200 C150,100 350,300 500,200 C650,100 850,300 1000,200 L1000,400 L0,400 Z; M0,200 C150,300 350,100 500,200 C650,300 850,100 1000,200 L1000,400 L0,400 Z; M0,200 C150,100 350,300 500,200 C650,100 850,300 1000,200 L1000,400 L0,400 Z"></animate>
-</path>
-<defs>
-<linearGradient id="wave-grad-top" x1="0%" x2="0%" y1="0%" y2="100%">
-<stop offset="0%" style="stop-color:#aaffd8;stop-opacity:0.3"></stop>
-<stop offset="100%" style="stop-color:#0b1515;stop-opacity:0"></stop>
-</linearGradient>
-</defs>
-</svg>
-</div>
-<div class="relative z-10 text-center px-lg space-y-lg">
-<h1 class="text-display font-display text-on-surface tracking-tight">Shrey Shrivastava</h1>
-<div class="flex flex-col items-center gap-md">
-<p class="text-title-lg text-on-surface-variant max-w-3xl font-body-lg">
-                    AI Engineer &amp; Researcher focused on scalable multi-agent systems and low-latency inference orchestration. 
-                </p>
-<div class="flex flex-wrap justify-center gap-sm mt-md">
-<a class="m3-button-tonal" href="#">
-<span class="material-symbols-outlined text-[20px]">public</span> Portfolio
-                    </a>
-<a class="m3-button-tonal" href="#">
-<span class="material-symbols-outlined text-[20px]">link</span> LinkedIn
-                    </a>
-<a class="m3-button-tonal" href="#">
-<span class="material-symbols-outlined text-[20px]">school</span> ORCID
-                    </a>
-<a class="m3-button-filled" href="mailto:shrey@example.com">
-<span class="material-symbols-outlined text-[20px]">mail</span> Email
-                    </a>
-</div>
-<div class="mt-xl inline-flex items-center gap-md bg-surface-container/60 backdrop-blur-xl px-lg py-sm rounded-full border border-outline-variant shadow-lg">
-<span class="font-code-sm text-primary typing-cursor" id="typing-tagline">Researchin</span>
-</div>
-</div>
-</div>
-</header>
-<div class="max-w-container-max mx-auto px-lg flex flex-col gap-24 py-24">
-<main class="flex-1 space-y-24">
-<!-- About Section -->
-<section class="space-y-lg text-center max-w-4xl mx-auto" id="about">
-<h2 class="text-headline-lg font-headline-lg text-on-surface">About Me</h2>
-<div class="m3-card p-xl text-left border-none shadow-xl bg-surface-container/30 backdrop-blur-sm">
-<p class="text-body-lg text-on-surface-variant leading-relaxed">I'm an AI Engineer who enjoys building practical AI applications that people can use with confidence. My experience spans LLMs, RAG pipelines, FastAPI services, cloud deployment and machine learning systems, with a focus on delivering reliable solutions for production environments.</p>
-</div>
-</section>
-<!-- Education & Focus -->
-<div class="grid grid-cols-1 md:grid-cols-2 gap-xl">
-<section class="space-y-lg" id="education">
-<h2 class="text-headline-lg font-headline-lg text-on-surface px-md">Education</h2>
-<div class="m3-card p-xl space-y-lg"><div class="space-y-xl">
-    <!-- First Item -->
-    <div class="space-y-sm">
-        <div class="flex flex-col gap-xs">
-            <h3 class="text-headline-md text-on-surface">MSc Artificial Intelligence</h3>
-            <p class="text-body-lg text-primary font-medium">Queen Mary University of London</p>
-        </div>
-        <div class="flex items-center gap-sm">
-            <span class="bg-secondary/20 text-secondary px-md py-xs rounded-full text-label-caps">Merit</span>
-            <span class="text-body-sm text-on-surface-variant">• Dec 2024</span>
-        </div>
-    </div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=6EE7B7&center=true&vCenter=true&width=600&lines=Agentic+AI+%7C+LLM+Fine-tuning;Computer+Vision+%7C+NLP;Research+%E2%86%92+Production" alt="Typing SVG" />
 
-    <!-- Divider -->
-    <div class="border-t border-outline-variant"></div>
+Hi, I'm Shrey — an AI Engineer who loves turning ideas into systems people can actually use. I care less about a model working in a notebook and more about it holding up in the real world, where things break, edge cases show up, and trust matters. When I'm not building, you'll usually find me reading a new paper and asking "okay, but how would I actually ship this?" Always happy to connect, talk shop, or hear about what you're building — feel free to reach out.
 
-    <!-- Second Item -->
-    <div class="space-y-sm">
-        <div class="flex flex-col gap-xs">
-            <h3 class="text-headline-md text-on-surface">BTech Computer Science</h3>
-            <p class="text-body-lg text-primary font-medium">Symbiosis University of Applied Sciences</p>
-        </div>
-        <div class="flex items-center gap-sm">
-            <span class="bg-secondary/20 text-secondary px-md py-xs rounded-full text-label-caps">CGPA: 8.2/10</span>
-            <span class="text-body-sm text-on-surface-variant">• May 2022</span>
-        </div>
-    </div>
-</div></div>
-</section>
-<section class="space-y-lg" id="focus">
-<h2 class="text-headline-lg font-headline-lg text-on-surface px-md">Current Focus</h2>
-<div class="m3-card p-xl">
-<ul class="space-y-md"><li class="flex gap-md items-start">
-<span class="material-symbols-outlined text-primary bg-primary/10 p-sm rounded-full">bolt</span>
-<div>
-<h4 class="text-body-lg font-medium text-on-surface">Multi-Agent Systems Research</h4>
-<p class="text-body-sm text-on-surface-variant">Focusing on scalable orchestration and low-latency inference, building on MSc AI research at Queen Mary.</p>
-</div>
-</li>
-<li class="flex gap-md items-start">
-<span class="material-symbols-outlined text-secondary bg-secondary/10 p-sm rounded-full">memory</span>
-<div>
-<h4 class="text-body-lg font-medium text-on-surface">Advanced RAG &amp; LLM Ops</h4>
-<p class="text-body-sm text-on-surface-variant">Implementing hybrid retrieval (BM25 + Vector) and cross-encoder reranking for production-grade AI.</p>
-</div>
-</li>
-<li class="flex gap-md items-start">
-<span class="material-symbols-outlined text-tertiary bg-tertiary/10 p-sm rounded-full">hub</span>
-<div>
-<h4 class="text-body-lg font-medium text-on-surface">Scalable AI Infrastructure</h4>
-<p class="text-body-sm text-on-surface-variant">Developing high-performance backend systems using Python, FastAPI, and Docker for distributed model deployment.</p>
-</div>
-</li></ul>
-</div>
-</section>
-</div>
-<!-- Tech Stack -->
-<section class="space-y-xl" id="tech-stack">
-<h2 class="text-headline-lg font-headline-lg text-on-surface text-center">Tech Stack</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-lg"><!-- LLM & GenAI -->
-<div class="m3-card p-lg space-y-md">
-<h3 class="text-label-caps text-primary border-b border-outline-variant pb-xs">LLM &amp; GenAI</h3>
-<div class="flex flex-wrap gap-sm">
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">RAG</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">Prompt Engineering</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">LLM Evaluation</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">Local LLM Inference</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">LLaMA</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">Gemma</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">Qwen</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">DeepSeek</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">HuggingFace</span>
-<span class="m3-badge hover:bg-primary/10 hover:border-primary">LangChain</span>
-</div>
-</div>
-<!-- Retrieval & Search -->
-<div class="m3-card p-lg space-y-md">
-<h3 class="text-label-caps text-secondary border-b border-outline-variant pb-xs">Retrieval &amp; Search</h3>
-<div class="flex flex-wrap gap-sm">
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">Hybrid Retrieval</span>
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">BM25</span>
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">Dense Vector Search</span>
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">Cross-Encoder Reranking</span>
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">RRF</span>
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">FAISS</span>
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">Pinecone</span>
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">Semantic Search</span>
-<span class="m3-badge hover:bg-secondary/10 hover:border-secondary">Embeddings</span>
-</div>
-</div>
-<!-- ML, NLP & Vision -->
-<div class="m3-card p-lg space-y-md">
-<h3 class="text-label-caps text-tertiary border-b border-outline-variant pb-xs">ML, NLP &amp; Vision</h3>
-<div class="flex flex-wrap gap-sm">
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">PyTorch</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">TensorFlow</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">Scikit-learn</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">BERT</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">SVM</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">Sentence-Transformers</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">PyMuPDF</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">OpenCV</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">MediaPipe</span>
-<span class="m3-badge hover:bg-tertiary/10 hover:border-tertiary">Model Evaluation</span>
-</div>
-</div>
-<!-- Backend, Web, Cloud & DevOps -->
-<div class="m3-card p-lg space-y-md">
-<h3 class="text-label-caps text-error border-b border-outline-variant pb-xs">Backend, Web, Cloud &amp; DevOps</h3>
-<div class="flex flex-wrap gap-sm">
-<span class="m3-badge hover:bg-error/10 hover:border-error">Python</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">SQL</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">Bash</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">JavaScript</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">FastAPI</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">Flask</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">Streamlit</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">Gradio</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">REST APIs</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">Fireworks API</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">AWS</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">Azure</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">MLX</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">CUDA</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">Docker</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">Git</span>
-<span class="m3-badge hover:bg-error/10 hover:border-error">CI/CD</span>
-</div>
-</div></div>
-</section>
-<!-- Call to Action -->
-<section class="text-center pt-xl space-y-lg pb-xl">
-<div class="m3-card p-xl inline-block max-w-2xl bg-surface-container-high border-none">
-<h3 class="text-headline-md text-on-surface mb-sm">Open to AI Engineer roles and collaborations...</h3>
-<p class="text-body-lg text-on-surface-variant mb-xl">Let's build the future of autonomous intelligence together.</p>
-<a class="m3-button-filled inline-flex w-auto mx-auto shadow-2xl" href="mailto:shrey@example.com">
-                        Contact Me <span class="material-symbols-outlined">arrow_forward</span>
-</a>
-</div>
-</section>
-</main>
-</div>
-<!-- Footer -->
-<footer class="relative w-full overflow-hidden flex flex-col items-center">
-<div class="absolute inset-0 z-0 opacity-20 pointer-events-none">
-<svg class="w-full h-full" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
-<path d="M0,80 C150,20 350,140 500,80 C650,20 850,140 1000,80 L1000,180 L0,180 Z" fill="url(#wave-grad-bottom)">
-<animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0,80 C150,20 350,140 500,80 C650,20 850,140 1000,80 L1000,180 L0,180 Z; M0,80 C150,140 350,20 500,80 C650,140 850,20 1000,80 L1000,180 L0,180 Z; M0,80 C150,20 350,140 500,80 C650,20 850,140 1000,80 L1000,180 L0,180 Z"></animate>
-</path>
-<defs>
-<linearGradient id="wave-grad-bottom" x1="0%" x2="0%" y1="0%" y2="100%">
-<stop offset="0%" style="stop-color:#d0bcff;stop-opacity:0"></stop>
-<stop offset="100%" style="stop-color:#d0bcff;stop-opacity:0.3"></stop>
-</linearGradient>
-</defs>
-</svg>
-</div>
-<div class="relative z-10 w-full py-xl bg-gradient-to-t from-background to-transparent border-t border-outline-variant/30">
-<div class="flex justify-center max-w-container-max mx-auto px-lg">
-<div class="font-body-sm text-body-sm text-on-surface-variant flex items-center gap-sm">
-<span class="">© 2026 Shrey Shrivastava</span>
-<span class="w-1 h-1 bg-outline rounded-full"></span>
+[![Portfolio](https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&logo=googlechrome&logoColor=0b1515)](https://shreyshrivastava.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-shrivastava1)
+[![ORCID](https://img.shields.io/badge/ORCID-6EE7B7?style=for-the-badge&logo=orcid&logoColor=0b1515)](https://orcid.org/0000-0001-5273-2842)
+[![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrey.shrivastava@yahoo.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=shreyshrivastava&color=6EE7B7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+### Education
+
+**MSc Artificial Intelligence** — Merit
+Queen Mary University of London · Dec 2024
+
+**BTech Computer Science** — CGPA 8.2/10
+Symbiosis University of Applied Sciences · May 2022
+
+### Current focus
+Agentic AI systems, LLM fine-tuning, and applied computer vision — building tools that go from research to something deployable.
+
+---
+
+## Tech stack
+
+**LLM & GenAI**
+
+![RAG](https://img.shields.io/badge/-RAG-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-8A2BE2?style=for-the-badge)
+![Local LLM Inference](https://img.shields.io/badge/-Local%20LLM%20Inference-8A2BE2?style=for-the-badge)
+![LLaMA](https://img.shields.io/badge/-LLaMA-8A2BE2?style=for-the-badge)
+![Gemma](https://img.shields.io/badge/-Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Qwen](https://img.shields.io/badge/-Qwen-615CED?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-536AF5?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Retrieval & Search**
+
+![Hybrid Retrieval](https://img.shields.io/badge/-Hybrid%20Retrieval-D0BCFF?style=for-the-badge)
+![BM25](https://img.shields.io/badge/-BM25-D0BCFF?style=for-the-badge)
+![Dense Vector Search](https://img.shields.io/badge/-Dense%20Vector%20Search-D0BCFF?style=for-the-badge)
+![Cross-Encoder Reranking](https://img.shields.io/badge/-Cross--Encoder%20Reranking-D0BCFF?style=for-the-badge)
+![RRF](https://img.shields.io/badge/-RRF-D0BCFF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/-FAISS-D0BCFF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/-Pinecone-D0BCFF?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-D0BCFF?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/-Embeddings-D0BCFF?style=for-the-badge)
+
+**ML, NLP & Vision**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![BERT](https://img.shields.io/badge/-BERT-FFB951?style=for-the-badge)
+![SVM](https://img.shields.io/badge/-SVM-FFB951?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/-Sentence--Transformers-FFB951?style=for-the-badge)
+![PyMuPDF](https://img.shields.io/badge/-PyMuPDF-FFB951?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFB951?style=for-the-badge)
+
+**Backend, Web, Cloud & DevOps**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-FF6B6B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyshrivastava&show_icons=true&theme=github_dark&hide_border=true&title_color=6EE7B7&icon_color=58A6FF&text_color=dae5e4&bg_color=0b1515)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyshrivastava&layout=compact&theme=github_dark&hide_border=true&title_color=6EE7B7&text_color=dae5e4&bg_color=0b1515)
+![Streak Stats](https://streak-stats.demolab.com/?user=shreyshrivastava&theme=github-dark-blue&hide_border=true&background=0B1515&ring=6EE7B7&fire=58A6FF&currStreakLabel=6EE7B7)
+
 </div>
+
+---
+
+## Contribution snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/shreyshrivastava/shreyshrivastava/output/github-contribution-grid-snake.svg" width="100%" />
+<!--END_SECTION:snake-->
+
 </div>
-</footer>
-<script>
-        // Typing Tagline Logic
-        const phrases = ["Building Autonomous Systems", "Researching Scalable AI", "LLM Orchestration", "Python | C++ | Rust"];
-        let phraseIndex = 0;
-        let charIndex = 0;
-        let isDeleting = false;
-        const typingSpeed = 100;
-        const deletingSpeed = 50;
-        const pauseTime = 2000;
-        const typingEl = document.getElementById('typing-tagline');
 
-        function type() {
-            const currentPhrase = phrases[phraseIndex];
-            
-            if (isDeleting) {
-                typingEl.textContent = currentPhrase.substring(0, charIndex - 1);
-                charIndex--;
-            } else {
-                typingEl.textContent = currentPhrase.substring(0, charIndex + 1);
-                charIndex++;
-            }
+> The snake animation above needs a one-time setup: a GitHub Action that generates it automatically every day. See setup notes below.
 
-            if (!isDeleting && charIndex === currentPhrase.length) {
-                isDeleting = true;
-                setTimeout(type, pauseTime);
-            } else if (isDeleting && charIndex === 0) {
-                isDeleting = false;
-                phraseIndex = (phraseIndex + 1) % phrases.length;
-                setTimeout(type, 500);
-            } else {
-                setTimeout(type, isDeleting ? deletingSpeed : typingSpeed);
-            }
-        }
+---
 
-        document.addEventListener('DOMContentLoaded', type);
-    </script>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,100:6EE7B7&height=100&section=footer" />
 
-
-
-
-</body></html>
