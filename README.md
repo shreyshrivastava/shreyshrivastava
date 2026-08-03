@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=6EE7B7&center=true&vCenter=true&width=600&lines=Agentic+AI+%7C+LLM+Fine-tuning;Computer+Vision+%7C+NLP;Research+%E2%86%92+Production" alt="Typing SVG" />
 
-Hi, I'm Shrey — an AI Engineer who loves turning ideas into systems people can actually use. I care less about a model working in a notebook and more about it holding up in the real world, where things break, edge cases show up, and trust matters. When I'm not building, you'll usually find me reading a new paper and asking "okay, but how would I actually ship this?" Always happy to connect, talk shop, or hear about what you're building — feel free to reach out.
+Hi, I'm Shrey - an AI Engineer who loves turning ideas into systems people can actually use. I care less about a model working in a notebook and more about it holding up in the real world, where things break, edge cases show up, and trust matters. When I'm not building, you'll usually find me reading a new paper and asking "okay, but how would I actually ship this?" Always happy to connect, talk shop, or hear about what you're buildin-feel free to reach out.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&logo=googlechrome&logoColor=0b1515)](https://shreyshrivastava.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-shrivastava1)
@@ -17,10 +17,10 @@ Hi, I'm Shrey — an AI Engineer who loves turning ideas into systems people can
 
 ### Education
 
-**MSc Artificial Intelligence** — Merit
+**MSc Artificial Intelligence** -Merit
 Queen Mary University of London · Dec 2024
 
-**BTech Computer Science** — CGPA 8.2/10
+**BTech Computer Science** - CGPA 8.2/10
 Symbiosis University of Applied Sciences · May 2022
 
 ### Current focus
