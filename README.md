@@ -11,8 +11,6 @@ Hi, I'm Shrey — an AI Engineer who loves turning ideas into systems people can
 [![ORCID](https://img.shields.io/badge/ORCID-6EE7B7?style=for-the-badge&logo=orcid&logoColor=0b1515)](https://orcid.org/0000-0001-5273-2842)
 [![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrey.shrivastava@yahoo.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=shreyshrivastava&color=6EE7B7&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
