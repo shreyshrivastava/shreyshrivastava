@@ -94,11 +94,11 @@ My work spans information retrieval, evidence analysis, computer vision, and AI 
 A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-10-17** — Add hackathon projects and optimize mobile full-page scroll loop · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/9fa90b72f3c7c71ded03de6b5645848353f3820c)
+- **2026-10-17** — Redesign portfolio with 3D backgrounds and responsive terminal navigation · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/47a08485a256f141c8b575b86782bce28e9b6933)
 - **2026-10-16** — Add screenshots for every project · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/523ab32f8895eb46e6ef0428815337fcbad323dc)
 - **2026-10-16** — Use institution logos on education page · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/6418b64577a8af2e7c26774407b13f6c69d5d105)
 - **2026-10-16** — Add real project visuals and education photographs · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/4f463343f715b4ff0d3a1c63ba1bb284da175e97)
-- **2026-10-16** — Publish animated portfolio README with project screenshots and automatic activity · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/2cefc66bb98ec09ba3707b760707eff60ebe3095)
-- **2026-10-07** — docs: add GitHub Packages \(GHCR\) live badge · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/56dc69e1426f1ae233a7a88d3ffd4686bb313356)
 <!-- RECENT-COMMITS:END -->
 
 ## `04 /` On the workbench · Active repositories
