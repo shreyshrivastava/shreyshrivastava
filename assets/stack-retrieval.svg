@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="296" viewBox="0 0 1200 296" role="img" aria-label="Retrieval &amp; search: Hybrid retrieval, BM25, Dense vector search, Cross-encoder reranking, RRF, FAISS, Pinecone, Semantic search, Embeddings">
+<rect width="1200" height="296" rx="18" fill="#0B171D"/>
+<rect x="26" y="28" width="8" height="24" rx="3" fill="#93C5FD"/>
+<text x="48" y="48" fill="#F4FBFF" font-family="Arial,sans-serif" font-size="23" font-weight="700">Retrieval &amp; search</text>
+<rect x="26" y="78" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="33" y="85" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="43" y="95" width="20" height="20" rx="4"/><circle cx="41" cy="93" r="3"/><circle cx="65" cy="117" r="3"/></g>
+<text x="84" y="111" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">Hybrid retrieval</text>
+<rect x="316" y="78" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="323" y="85" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="333" y="95" width="20" height="20" rx="4"/><circle cx="331" cy="93" r="3"/><circle cx="355" cy="117" r="3"/></g>
+<text x="374" y="111" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">BM25</text>
+<rect x="606" y="78" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="613" y="85" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="623" y="95" width="20" height="20" rx="4"/><circle cx="621" cy="93" r="3"/><circle cx="645" cy="117" r="3"/></g>
+<text x="664" y="111" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">Dense vector search</text>
+<rect x="896" y="78" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="903" y="85" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="913" y="95" width="20" height="20" rx="4"/><circle cx="911" cy="93" r="3"/><circle cx="935" cy="117" r="3"/></g>
+<text x="954" y="111" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">Cross-encoder reranking</text>
+<rect x="26" y="146" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="33" y="153" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="43" y="163" width="20" height="20" rx="4"/><circle cx="41" cy="161" r="3"/><circle cx="65" cy="185" r="3"/></g>
+<text x="84" y="179" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">RRF</text>
+<rect x="316" y="146" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="323" y="153" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="333" y="163" width="20" height="20" rx="4"/><circle cx="331" cy="161" r="3"/><circle cx="355" cy="185" r="3"/></g>
+<text x="374" y="179" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">FAISS</text>
+<rect x="606" y="146" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="613" y="153" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="623" y="163" width="20" height="20" rx="4"/><circle cx="621" cy="161" r="3"/><circle cx="645" cy="185" r="3"/></g>
+<text x="664" y="179" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">Pinecone</text>
+<rect x="896" y="146" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="903" y="153" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="913" y="163" width="20" height="20" rx="4"/><circle cx="911" cy="161" r="3"/><circle cx="935" cy="185" r="3"/></g>
+<text x="954" y="179" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">Semantic search</text>
+<rect x="26" y="214" width="278" height="54" rx="9" fill="#142830"/>
+<rect x="33" y="221" width="40" height="40" rx="8" fill="#93C5FD"/>
+<g fill="#071013"><rect x="43" y="231" width="20" height="20" rx="4"/><circle cx="41" cy="229" r="3"/><circle cx="65" cy="253" r="3"/></g>
+<text x="84" y="247" fill="#E1EDF0" font-family="Arial,sans-serif" font-size="17">Embeddings</text>
+</svg>

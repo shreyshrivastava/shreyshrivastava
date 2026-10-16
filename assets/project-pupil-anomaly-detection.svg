@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-label="project pupil anomaly detection — solid icon on an isometric platform">
+<defs><radialGradient id="glow"><stop stop-color="#FFB951" stop-opacity=".18"/><stop offset="1" stop-color="#071013" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="620" fill="#071013"/>
+<ellipse cx="600" cy="300" rx="520" ry="310" fill="url(#glow)"/>
+<ellipse cx="600" cy="505" rx="285" ry="48" fill="#03090C"/>
+<path d="M270 360L600 200L930 360L600 520Z" fill="#1B3942"/>
+<path d="M270 360L600 520V565L270 405Z" fill="#102730"/>
+<path d="M600 520L930 360V405L600 565Z" fill="#0B1C24"/>
+<path d="M354 374L600 493L846 374L600 505Z" fill="#FFB951" opacity=".45"/>
+<rect x="478" y="153" width="256" height="256" rx="50" fill="#03090C" opacity=".5"/>
+<rect x="466" y="138" width="256" height="256" rx="50" fill="#FFB951"/>
+<g transform="translate(594 266) scale(.78)" fill="#071013"><path d="M-140 0Q0-151 140 0Q0 151-140 0ZM-52 0A52 52 0 1 0 52 0A52 52 0 1 0-52 0Z" fill-rule="evenodd"/><circle r="30"/></g>
+<circle cx="340" cy="276" r="15" fill="#FFB951"/><circle cx="852" cy="232" r="10" fill="#FFB951" opacity=".55"/>
+</svg>

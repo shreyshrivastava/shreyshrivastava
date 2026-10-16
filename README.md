@@ -1,101 +1,124 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:93C5FD&height=180&section=header&text=Shrey%20Shrivastava&fontSize=42&fontColor=1C1B1F&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer&descAlignY=62&descSize=18" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=6EE7B7&center=true&vCenter=true&width=600&lines=Agentic+AI+%7C+LLM+Fine-tuning;Computer+Vision+%7C+NLP;Research+%E2%86%92+Production" alt="Typing SVG" />
+<a href="https://shreyshrivastava.com"><img src="assets/portfolio-lab.svg" width="100%" alt="Shrey Shrivastava — AI / ML Engineer. Isometric signal lab from my portfolio." /></a>
 
-Hi, I'm Shrey - an AI Engineer who loves turning ideas into systems people can actually use. I care less about a model working in a notebook and more about it holding up in the real world, where things break, edge cases show up, and trust matters. When I'm not building, you'll usually find me reading a new paper and asking "okay, but how would I actually ship this?" Always happy to connect, talk shop, or hear about what you're buildin-feel free to reach out.
+<p><code>RETRIEVAL</code> · <code>APPLIED AI</code> · <code>COMPUTER VISION</code> · <code>DEPLOYMENT</code></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&logo=googlechrome&logoColor=0b1515)](https://shreyshrivastava.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-shrivastava1)
-[![ORCID](https://img.shields.io/badge/ORCID-6EE7B7?style=for-the-badge&logo=orcid&logoColor=0b1515)](https://orcid.org/0000-0001-5273-2842)
-[![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrey.shrivastava@yahoo.com)
+<p>
+<a href="https://shreyshrivastava.com"><img src="https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0b1515" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shrey-shrivastava1"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://orcid.org/0000-0001-5273-2842"><img src="https://img.shields.io/badge/ORCID-6EE7B7?style=for-the-badge&amp;logo=orcid&amp;logoColor=0b1515" alt="ORCID" /></a>
+<a href="mailto:shrey.shrivastava@yahoo.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
----
+Hi, I’m Shrey - an AI Engineer who loves turning ideas into systems people can actually use. I care about a model holding up in the real world, where things break, edge cases show up, and trust matters. When I’m not building, you’ll usually find me reading a new paper and asking, “How would I actually ship this?” Always happy to connect, talk shop, or hear about what you’re building.
+
+### Current focus
+
+Agentic AI systems, LLM fine-tuning, and applied computer vision — building tools that go from research to something deployable.
 
 ### Education
 
-**MSc Artificial Intelligence** -Merit
-Queen Mary University of London · Dec 2024
+<img src="assets/education/education-cards.svg" width="100%" alt="MSc Artificial Intelligence — Queen Mary University of London, Merit, Dec 2024. BTech Computer Science — Symbiosis University of Applied Sciences, CGPA 8.2/10, May 2022." />
 
-**BTech Computer Science** - CGPA 8.2/10
-Symbiosis University of Applied Sciences · May 2022
-
-### Current focus
-Agentic AI systems, LLM fine-tuning, and applied computer vision — building tools that go from research to something deployable.
+[Queen Mary University of London](https://www.qmul.ac.uk/) · [Symbiosis University of Applied Sciences](https://www.suas.ac.in/)
 
 ---
 
-## Tech stack
+## `01 /` Inside the lab
 
-**LLM & GenAI**
+My work spans information retrieval, evidence analysis, computer vision, and AI application deployment. The previews below are actual application screenshots; click a project to explore its code.
 
-![RAG](https://img.shields.io/badge/-RAG-8A2BE2?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-8A2BE2?style=for-the-badge)
-![Local LLM Inference](https://img.shields.io/badge/-Local%20LLM%20Inference-8A2BE2?style=for-the-badge)
-![LLaMA](https://img.shields.io/badge/-LLaMA-8A2BE2?style=for-the-badge)
-![Gemma](https://img.shields.io/badge/-Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Qwen](https://img.shields.io/badge/-Qwen-615CED?style=for-the-badge)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-536AF5?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Retrieval & Search**
-
-![Hybrid Retrieval](https://img.shields.io/badge/-Hybrid%20Retrieval-D0BCFF?style=for-the-badge)
-![BM25](https://img.shields.io/badge/-BM25-D0BCFF?style=for-the-badge)
-![Dense Vector Search](https://img.shields.io/badge/-Dense%20Vector%20Search-D0BCFF?style=for-the-badge)
-![Cross-Encoder Reranking](https://img.shields.io/badge/-Cross--Encoder%20Reranking-D0BCFF?style=for-the-badge)
-![RRF](https://img.shields.io/badge/-RRF-D0BCFF?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/-FAISS-D0BCFF?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/-Pinecone-D0BCFF?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-D0BCFF?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/-Embeddings-D0BCFF?style=for-the-badge)
-
-**ML, NLP & Vision**
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![BERT](https://img.shields.io/badge/-BERT-FFB951?style=for-the-badge)
-![SVM](https://img.shields.io/badge/-SVM-FFB951?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/-Sentence--Transformers-FFB951?style=for-the-badge)
-![PyMuPDF](https://img.shields.io/badge/-PyMuPDF-FFB951?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-FFB951?style=for-the-badge)
-
-**Backend, Web, Cloud & DevOps**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-FF6B6B?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/shreyshrivastava/AcademicForge"><img src="assets/screenshots/academicforge.png" width="100%" alt="AcademicForge application screenshot: paper search and retrieved research results" /></a>
+<h3>01 · AcademicForge</h3>
+<p>Paper search, summaries, and research guidance in a cost-controlled Streamlit demo.</p>
+<p><code>RETRIEVAL</code> <code>RESEARCH</code></p>
+<a href="https://github.com/shreyshrivastava/AcademicForge">Explore repository ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/shreyshrivastava/ai-healthcare-intel-engine"><img src="assets/screenshots/healthcare.png" width="100%" alt="Healthcare Intel application screenshot: symptom-to-specialist routing result" /></a>
+<h3>02 · Healthcare intel</h3>
+<p>Symptom triage, second-opinion risk checks, and drug-interaction screening in a healthcare AI demo.</p>
+<p><code>HEALTHCARE AI</code> <code>DECISION SUPPORT</code></p>
+<a href="https://github.com/shreyshrivastava/ai-healthcare-intel-engine">Explore repository ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/shreyshrivastava/claim-detection-project-on-Russia-and-conflict"><img src="assets/screenshots/claim-checker.jpg" width="100%" alt="Live Claim Evidence Checker screenshot: bundled example verdict and ranked evidence" /></a>
+<h3>03 · Evidence &amp; claims</h3>
+<p>MSc dissertation at Queen Mary University of London: a tested FastAPI pipeline for evidence ranking and stance screening.</p>
+<p><code>NLP</code> <code>EVIDENCE RANKING</code></p>
+<a href="https://github.com/shreyshrivastava/claim-detection-project-on-Russia-and-conflict">Explore repository ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/shreyshrivastava/pupil-anomaly-detection"><img src="assets/screenshots/pupil-analysis.png" width="100%" alt="Pupil Response Analyzer application screenshot: synthetic sample controls" /></a>
+<h3>04 · Pupil response analysis</h3>
+<p>Bilateral pupil-response scoring, anomaly detection, report generation, and a Dash demo.</p>
+<p><code>COMPUTER VISION</code> <code>ANALYSIS</code></p>
+<a href="https://github.com/shreyshrivastava/pupil-anomaly-detection">Explore repository ↗</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence"><img src="assets/screenshots/bhopal-safety.png" width="100%" alt="Bhopal Safety Intelligence application screenshot: interactive safety map, incident filters, police stations, and safe corridors" /></a>
+<h3>05 · Bhopal Safety Intelligence</h3>
+<p>A mobile-friendly civic safety dashboard for Bhopal with interactive crime maps, police-station proximity analysis, hotspot exploration, and safe-corridor overlays. Built around calibrated synthetic incident data.</p>
+<p><code>GEOSPATIAL ANALYTICS</code> <code>STREAMLIT</code> <code>LEAFLET</code> <code>MOBILE-FRIENDLY</code></p>
+<p><a href="https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence">Explore repository ↗</a> · <a href="https://bhopalcrimesafety.streamlit.app/">Open live demo ↗</a></p>
+</td>
+</tr>
+</table>
 
 ---
 
+## `02 /` Tech stack
 
+<img src="assets/stack-llm.svg" width="100%" alt="LLM &amp; GenAI: RAG, Prompt engineering, LLM evaluation, Local LLM inference, LLaMA, Gemma, Qwen, DeepSeek, Hugging Face, LangChain" />
 
+<img src="assets/stack-retrieval.svg" width="100%" alt="Retrieval &amp; search: Hybrid retrieval, BM25, Dense vector search, Cross-encoder reranking, RRF, FAISS, Pinecone, Semantic search, Embeddings" />
 
+<img src="assets/stack-vision.svg" width="100%" alt="ML, NLP &amp; vision: PyTorch, TensorFlow, scikit-learn, BERT, SVM, Sentence Transformers, PyMuPDF, OpenCV, MediaPipe" />
 
-<div align="center">
-
-
-
-</div>
+<img src="assets/stack-backend.svg" width="100%" alt="Backend, web, cloud &amp; DevOps: Python, SQL, Bash, JavaScript, FastAPI, Flask, Streamlit, Gradio, REST APIs, AWS, Azure, CUDA, Docker, Git" />
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,100:6EE7B7&height=100&section=footer" />
+## `03 /` Build log · Recent updates
+
+A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
+
+<!-- RECENT-COMMITS:START -->
+- **2026-10-07** — docs: add GitHub Packages \(GHCR\) live badge · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/56dc69e1426f1ae233a7a88d3ffd4686bb313356)
+- **2026-10-07** — ci: add GitHub Actions workflow to build and publish container to GitHub Packages \(GHCR\) · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/779a03dd4dec49cb92aa15b3d2933bda5454475f)
+- **2026-10-07** — docs: add v1.0.0 release badge to README · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/927da41a3ca128f1c8ed7f4455aa249b86b4c7b6)
+- **2026-10-07** — docs: align README with full system structure, AI pipeline, multi-tab layout, and test suites · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/82e95d07319d49ff9a4baf02c7c561095e463beb)
+- **2026-10-07** — docs: refresh architecture\_3d.png to mirror exact app UI, colors, and components · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/4373b93e5a41c245afb39b0ba774c3ee44ef4996)
+<!-- RECENT-COMMITS:END -->
+
+## `04 /` On the workbench · Active repositories
+
+<!-- RECENT-REPOS:START -->
+- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
+- [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
+- [ats-resume-checker](https://github.com/shreyshrivastava/ats-resume-checker) — ATS resume checker with deterministic resume-job scoring, PDF extraction, report downloads, and optional local Gemma 3 explanations.
+- [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
+- [claim-detection-project-on-Russia-and-conflict](https://github.com/shreyshrivastava/claim-detection-project-on-Russia-and-conflict) — MSc dissertation project at Queen Mary University of London — Claim evidence checker that turns notebook-era BERT/SVM work into a tested FastAPI evidence-ranking and stance-screening pipeline.
+<!-- RECENT-REPOS:END -->
+
+---
+
+<sub>Activity refreshes hourly through <a href=".github/workflows/update-readme.yml">GitHub Actions</a>, and can also be refreshed manually from the Actions tab. Commit updates use GitHub’s search index, so new commits may take a little time to appear. Only public repositories and commits attributed to my GitHub account are included.</sub>
+
+
+
+
+
+<img src="assets/research-build-ship.svg" width="100%" alt="Research → Build → Ship — animated workflow. Let’s make something useful." />
+
+<img src="assets/footer-wave.svg" width="100%" alt="Mint to blue closing wave" />

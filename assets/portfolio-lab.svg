@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Shrey Shrivastava — AI / ML Engineer</title>
+<desc id="desc">A dark teal isometric AI signal lab from Shrey’s portfolio, beside his name and engineering focus.</desc>
+<defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#092126" />
+      <stop offset="0.55" stop-color="#071013" />
+      <stop offset="1" stop-color="#102237" />
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22" /></filter>
+  </defs>
+  
+<rect width="1200" height="430" rx="20" fill="url(#bg)" />
+<rect x="1" y="1" width="1198" height="428" rx="20" fill="none" stroke="#24434b" />
+<g transform="translate(380,-84) scale(.56)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1" /><circle cx="1180" cy="170" r="220" fill="#17d7c8" opacity="0.12" filter="url(#blur)" />
+  
+<circle cx="410" cy="730" r="260" fill="#f96fb3" opacity="0.12" filter="url(#blur)" />
+  
+<ellipse cx="880" cy="700" rx="420" ry="96" fill="#000" opacity="0.34" />
+  
+<polygon points="452,610 856,420 1258,610 858,808" fill="#102a30" />
+  
+<polygon points="452,610 856,808 856,862 452,662" fill="#0a1c20" />
+  
+<polygon points="1258,610 856,808 856,862 1258,662" fill="#07161a" />
+  
+<g stroke="#17d7c8" stroke-width="7" stroke-linecap="round" opacity="0.86">
+    <path d="M628 620 C736 552 840 548 944 618 S1132 684 1192 612" fill="none" />
+    <path d="M610 680 C720 610 838 604 956 682 S1136 748 1216 672" fill="none" opacity="0.45" />
+  </g>
+  
+<g fill="#e9fbff">
+    <rect x="720" y="500" width="260" height="168" rx="18" fill="#d9f8f6" />
+    <rect x="748" y="532" width="204" height="82" rx="10" fill="#071013" />
+    <circle cx="788" cy="642" r="12" fill="#17d7c8"><animate attributeName="opacity" values="1;.3;1" dur="3s" begin="0.4s" repeatCount="indefinite" /></circle>
+    <circle cx="836" cy="642" r="12" fill="#6fa8ff"><animate attributeName="opacity" values="1;.3;1" dur="3s" begin="0.6000000000000001s" repeatCount="indefinite" /></circle>
+    <circle cx="884" cy="642" r="12" fill="#f96fb3"><animate attributeName="opacity" values="1;.3;1" dur="3s" begin="0.8s" repeatCount="indefinite" /></circle>
+  </g>
+  
+<g fill="#17d7c8">
+    <circle cx="560" cy="540" r="28" />
+    <circle cx="610" cy="500" r="18" opacity="0.75" />
+    <circle cx="1078" cy="528" r="24" />
+    <circle cx="1128" cy="570" r="16" opacity="0.75" />
+  </g>
+</g></g>
+<g font-family="'Space Grotesk',Inter,Arial,sans-serif">
+<rect x="52" y="46" width="34" height="30" rx="7" fill="#102a30" stroke="#17d7c8" stroke-opacity=".5" />
+<text x="59" y="66" fill="#17d7c8" font-family="monospace" font-size="15" font-weight="700">&gt;_</text>
+<text x="100" y="66" fill="#aec1c7" font-size="13" letter-spacing="3">THE ENGINEERING LAB</text>
+<text x="52" y="151" fill="#f4fbff" font-size="49" font-weight="700">Shrey Shrivastava.</text>
+<text x="54" y="194" fill="#17d7c8" font-size="24" font-weight="600">AI / ML Engineer</text>
+<text x="54" y="239" fill="#d5e2e6" font-size="17">From research questions to working AI systems.</text>
+<text x="54" y="269" fill="#aec1c7" font-size="15">Retrieval · Evidence analysis · Computer vision</text>
+<line x1="54" y1="326" x2="1146" y2="326" stroke="#24434b" />
+<circle cx="61" cy="367" r="5" fill="#17d7c8" />
+<text x="78" y="372" fill="#aec1c7" font-size="12" letter-spacing="2">BUILD / EXPERIMENT / SHIP</text>
+<text x="1146" y="372" fill="#6fa8ff" font-size="13" text-anchor="end">shreyshrivastava.com ↗</text>
+</g>
+<circle r="4" fill="#6EE7B7"><animateMotion path="M 732 262 C 791 220 844 227 910 262 S 1026 301 1046 258" dur="4s" repeatCount="indefinite" /></circle></svg>

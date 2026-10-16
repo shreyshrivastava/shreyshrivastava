@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-label="project claim detection on russia ukraine conflict — solid icon on an isometric platform">
+<defs><radialGradient id="glow"><stop stop-color="#C4B5FD" stop-opacity=".18"/><stop offset="1" stop-color="#071013" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="620" fill="#071013"/>
+<ellipse cx="600" cy="300" rx="520" ry="310" fill="url(#glow)"/>
+<ellipse cx="600" cy="505" rx="285" ry="48" fill="#03090C"/>
+<path d="M270 360L600 200L930 360L600 520Z" fill="#1B3942"/>
+<path d="M270 360L600 520V565L270 405Z" fill="#102730"/>
+<path d="M600 520L930 360V405L600 565Z" fill="#0B1C24"/>
+<path d="M354 374L600 493L846 374L600 505Z" fill="#C4B5FD" opacity=".45"/>
+<rect x="478" y="153" width="256" height="256" rx="50" fill="#03090C" opacity=".5"/>
+<rect x="466" y="138" width="256" height="256" rx="50" fill="#C4B5FD"/>
+<g transform="translate(594 266) scale(.78)" fill="#071013"><path d="M-80-110H30L84-56V110H-80ZM35-101V-50H76Z" fill-rule="evenodd"/><path d="M-46 12L-20 38L35-18L52 0L-20 73L-64 30Z" fill="#0B171D"/></g>
+<circle cx="340" cy="276" r="15" fill="#C4B5FD"/><circle cx="852" cy="232" r="10" fill="#C4B5FD" opacity=".55"/>
+</svg>
