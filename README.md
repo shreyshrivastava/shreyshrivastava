@@ -1,6 +1,8 @@
 <div align="center">
 
-<a href="https://shreyshrivastava.com"><img src="assets/portfolio-lab.svg" width="100%" alt="Shrey Shrivastava — AI / ML Engineer. Isometric signal lab from my portfolio." /></a>
+<a href="https://shreyshrivastava.com"><img src="assets/screenshots/portfolio-terminal.png" width="100%" alt="Shrey Shrivastava — AI / ML Engineer. Live portfolio preview with 3D background and terminal navigation." /></a>
+
+<p><a href="https://shreyshrivastava.com/index.html#about">About</a> · <a href="https://shreyshrivastava.com/projects.html">Projects</a> · <a href="https://shreyshrivastava.com/experience.html">Experience</a> · <a href="https://shreyshrivastava.com/education.html">Education</a> · <a href="https://shreyshrivastava.com/contact.html">Contact</a></p>
 
 <p><code>RETRIEVAL</code> · <code>APPLIED AI</code> · <code>COMPUTER VISION</code> · <code>DEPLOYMENT</code></p>
 
@@ -27,7 +29,7 @@ Agentic AI systems, LLM fine-tuning, and applied computer vision — building to
 
 ---
 
-## `01 /` Inside the lab
+## `01 /` Projects
 
 My work spans information retrieval, evidence analysis, computer vision, and AI application deployment. The previews below are actual application screenshots; click a project to explore its code.
 
@@ -101,7 +103,7 @@ A running log of what I’ve been working on, using my own commit messages from 
 - **2026-10-16** — Add real project visuals and education photographs · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/4f463343f715b4ff0d3a1c63ba1bb284da175e97)
 <!-- RECENT-COMMITS:END -->
 
-## `04 /` On the workbench · Active repositories
+## `04 /` Active repositories
 
 <!-- RECENT-REPOS:START -->
 - [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
@@ -119,6 +121,4 @@ A running log of what I’ve been working on, using my own commit messages from 
 
 
 
-<img src="assets/research-build-ship.svg" width="100%" alt="Research → Build → Ship — animated workflow. Let’s make something useful." />
-
-<img src="assets/footer-wave.svg" width="100%" alt="Mint to blue closing wave" />
+<a href="https://shreyshrivastava.com/contact.html"><img src="assets/portfolio-terminal-footer.svg" width="100%" alt="Research → Build → Ship. Let’s make something useful. Open the portfolio contact page." /></a>

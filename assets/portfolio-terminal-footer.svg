@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
+<title id="title">Research. Build. Ship.</title><desc id="desc">Terminal-style closing panel matching Shrey’s current portfolio.</desc>
+<rect x="1" y="1" width="1198" height="158" rx="8" fill="#0d171b" stroke="#365252"/><path d="M9 2h1182" stroke="#60d0c7" stroke-width="3"/>
+<g fill="#dce8eb" font-family="monospace"><text x="30" y="39" font-size="13" fill="#91a9ae">SHREY / PORTFOLIO</text><text x="30" y="90" font-size="27"><tspan fill="#60d0c7">&gt;_ </tspan>Research → Build → Ship</text><text x="30" y="129" font-size="16" fill="#91a9ae">Let’s make something useful.</text><text x="1170" y="129" text-anchor="end" font-size="14" fill="#60d0c7">shreyshrivastava.com ↗</text></g>
+<circle cx="1120" cy="31" r="5" fill="#d885a9"/><circle cx="1140" cy="31" r="5" fill="#e7bf7a"/><circle cx="1160" cy="31" r="5" fill="#71cfa9"/>
+</svg>
