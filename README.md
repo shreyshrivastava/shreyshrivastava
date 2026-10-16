@@ -94,21 +94,21 @@ My work spans information retrieval, evidence analysis, computer vision, and AI 
 A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-10-16** — Add screenshots for every project · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/523ab32f8895eb46e6ef0428815337fcbad323dc)
+- **2026-10-16** — Use institution logos on education page · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/6418b64577a8af2e7c26774407b13f6c69d5d105)
+- **2026-10-16** — Add real project visuals and education photographs · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/4f463343f715b4ff0d3a1c63ba1bb284da175e97)
 - **2026-10-16** — Publish animated portfolio README with project screenshots and automatic activity · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/2cefc66bb98ec09ba3707b760707eff60ebe3095)
 - **2026-10-07** — docs: add GitHub Packages \(GHCR\) live badge · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/56dc69e1426f1ae233a7a88d3ffd4686bb313356)
-- **2026-10-07** — ci: add GitHub Actions workflow to build and publish container to GitHub Packages \(GHCR\) · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/779a03dd4dec49cb92aa15b3d2933bda5454475f)
-- **2026-10-07** — docs: add v1.0.0 release badge to README · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/927da41a3ca128f1c8ed7f4455aa249b86b4c7b6)
-- **2026-10-07** — docs: align README with full system structure, AI pipeline, multi-tab layout, and test suites · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/82e95d07319d49ff9a4baf02c7c561095e463beb)
 <!-- RECENT-COMMITS:END -->
 
 ## `04 /` On the workbench · Active repositories
 
 <!-- RECENT-REPOS:START -->
+- [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
 - [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
 - [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 - [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
 - [ats-resume-checker](https://github.com/shreyshrivastava/ats-resume-checker) — ATS resume checker with deterministic resume-job scoring, PDF extraction, report downloads, and optional local Gemma 3 explanations.
-- [claim-detection-project-on-Russia-and-conflict](https://github.com/shreyshrivastava/claim-detection-project-on-Russia-and-conflict) — MSc dissertation project at Queen Mary University of London — Claim evidence checker that turns notebook-era BERT/SVM work into a tested FastAPI evidence-ranking and stance-screening pipeline.
 <!-- RECENT-REPOS:END -->
 
 ---
