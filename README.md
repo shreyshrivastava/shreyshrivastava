@@ -1,17 +1,10 @@
 <div align="center">
 
-<a href="https://shreyshrivastava.com"><img src="assets/screenshots/portfolio-terminal.png" width="100%" alt="Shrey Shrivastava — AI / ML Engineer. Live portfolio preview with 3D background and terminal navigation." /></a>
+<a href="https://shreyshrivastava.com"><img src="assets/hero.svg" width="100%" alt="Shrey Shrivastava — animated terminal portfolio" /></a>
 
 <p><a href="https://shreyshrivastava.com/index.html#about">About</a> · <a href="https://shreyshrivastava.com/projects.html">Projects</a> · <a href="https://shreyshrivastava.com/experience.html">Experience</a> · <a href="https://shreyshrivastava.com/education.html">Education</a> · <a href="https://shreyshrivastava.com/contact.html">Contact</a></p>
 
-<p><code>RETRIEVAL</code> · <code>APPLIED AI</code> · <code>COMPUTER VISION</code> · <code>DEPLOYMENT</code></p>
-
-<p>
-<a href="https://shreyshrivastava.com"><img src="https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0b1515" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shrey-shrivastava1"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="https://orcid.org/0000-0001-5273-2842"><img src="https://img.shields.io/badge/ORCID-6EE7B7?style=for-the-badge&amp;logo=orcid&amp;logoColor=0b1515" alt="ORCID" /></a>
-<a href="mailto:shrey.shrivastava@yahoo.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-</p>
+<p><a href="https://shreyshrivastava.com"><img src="assets/portfolio.svg" width="23%" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/shrey-shrivastava1"><img src="assets/linkedin.svg" width="23%" alt="Linkedin" /></a> <a href="https://orcid.org/0000-0001-5273-2842"><img src="assets/orcid.svg" width="23%" alt="Orcid" /></a> <a href="mailto:shrey.shrivastava@yahoo.com"><img src="assets/email.svg" width="23%" alt="Email" /></a> </p>
 
 </div>
 
@@ -20,14 +13,6 @@ Hi, I’m Shrey - an AI Engineer who loves turning ideas into systems people can
 ### Current focus
 
 Agentic AI systems, LLM fine-tuning, and applied computer vision — building tools that go from research to something deployable.
-
-### Education
-
-<img src="assets/education/education-cards.svg" width="100%" alt="MSc Artificial Intelligence — Queen Mary University of London, Merit, Dec 2024. BTech Computer Science — Symbiosis University of Applied Sciences, CGPA 8.2/10, May 2022." />
-
-[Queen Mary University of London](https://www.qmul.ac.uk/) · [Symbiosis University of Applied Sciences](https://www.suas.ac.in/)
-
----
 
 ## `01 /` Projects
 
@@ -91,7 +76,15 @@ My work spans information retrieval, evidence analysis, computer vision, and AI 
 
 ---
 
-## `03 /` Build log · Recent updates
+## `03 /` Education
+
+<img src="assets/education.svg" width="100%" alt="MSc Artificial Intelligence — Queen Mary University of London, Merit, Dec 2024. BTech Computer Science — Symbiosis University of Applied Sciences, CGPA 8.2/10, May 2022." />
+
+[Queen Mary University of London](https://www.qmul.ac.uk/) · [Symbiosis University of Applied Sciences](https://www.suas.ac.in/)
+
+---
+
+## `04 /` Build log · Recent updates
 
 A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
 
@@ -103,7 +96,7 @@ A running log of what I’ve been working on, using my own commit messages from 
 - **2026-10-16** — Add real project visuals and education photographs · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/4f463343f715b4ff0d3a1c63ba1bb284da175e97)
 <!-- RECENT-COMMITS:END -->
 
-## `04 /` Active repositories
+### Active repositories
 
 <!-- RECENT-REPOS:START -->
 - [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
@@ -121,4 +114,4 @@ A running log of what I’ve been working on, using my own commit messages from 
 
 
 
-<a href="https://shreyshrivastava.com/contact.html"><img src="assets/portfolio-terminal-footer.svg" width="100%" alt="Research → Build → Ship. Let’s make something useful. Open the portfolio contact page." /></a>
+<a href="https://shreyshrivastava.com/contact.html"><img src="assets/footer.svg" width="100%" alt="Research → Build → Ship. Open the contact page." /></a>
