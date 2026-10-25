@@ -89,20 +89,20 @@ My work spans information retrieval, evidence analysis, computer vision, and AI 
 A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-10-26** — Fix consistent navigation spacing across desktop and mobile · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/9adeba12808646005378b3512bc80f8d2c7e0210)
+- **2026-10-26** — Compact publication charts and make report map pins visible · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/596d79b5766e27fbfccca3f3773e073cb632a0e5)
+- **2026-10-26** — Document successful hosted Streamlit verification · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/463803ae3a48e3476388bee4e7fcc3274c29b2d9)
+- **2026-10-26** — Replace synthetic production data with reviewed official sources · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/c04f33ecf371cf84a91951a1ed3c3832cba0a733)
 - **2026-10-21** — Keep demo deployment on the shared application · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/401c24d5899080c3ff6769e5b86b1ca8ecd48a03)
-- **2026-10-21** — Unify standalone demo with shared app and add quantized CPU summaries · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/45b8f0c4d5b3fb90495880a5a4266c597acb7169)
-- **2026-10-21** — Add explicit search fields and disambiguate RAG and RAGAS queries · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/1d1c437d5f17c3df808828805a29caa7149e5c49)
-- **2026-10-21** — Update README.md · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/c7a82528a4751126982cfc3f2e724fefc009c9cc)
-- **2026-10-21** — Improve service reliability and publish measured SciFact retrieval benchmark · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/ab87a7d019a8ac17314fa3c5d55363b8d1435879)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
 
 <!-- RECENT-REPOS:START -->
+- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 - [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
 - [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
 - [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
-- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 - [ats-resume-checker](https://github.com/shreyshrivastava/ats-resume-checker) — ATS resume checker with deterministic resume-job scoring, PDF extraction, report downloads, and optional local Gemma 3 explanations.
 <!-- RECENT-REPOS:END -->
 
