@@ -89,11 +89,11 @@ My work spans information retrieval, evidence analysis, computer vision, and AI 
 A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-10-26** — Refresh official sources daily at midnight IST with review queue · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/f9f85aa5781075d7218e138092ebe8bc84eaac4a)
 - **2026-10-26** — Fix consistent navigation spacing across desktop and mobile · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/9adeba12808646005378b3512bc80f8d2c7e0210)
 - **2026-10-26** — Compact publication charts and make report map pins visible · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/596d79b5766e27fbfccca3f3773e073cb632a0e5)
 - **2026-10-26** — Document successful hosted Streamlit verification · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/463803ae3a48e3476388bee4e7fcc3274c29b2d9)
 - **2026-10-26** — Replace synthetic production data with reviewed official sources · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/c04f33ecf371cf84a91951a1ed3c3832cba0a733)
-- **2026-10-21** — Keep demo deployment on the shared application · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/401c24d5899080c3ff6769e5b86b1ca8ecd48a03)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
