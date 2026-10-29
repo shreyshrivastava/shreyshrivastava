@@ -89,11 +89,11 @@ My work spans agentic AI, retrieval-augmented LLM systems, healthcare ML, and ev
 A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-10-29** — Align profile focus with resume: remove fine-tuning claim, match project focus · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/6327d2c091de65234eb98cf4247d0d91c8e88e89)
 - **2026-10-29** — Update README.md · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/9fa61d78761957bef7ebf955580af1a62bdcb0b2)
 - **2026-10-29** — Remove current snapshot information from README · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/d9e4ee47ae91fec69b7cb8ade0c0a27a1ce51f4f)
 - **2026-10-29** — Describe Bhopal Safety Intelligence with reviewed official data · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/4704a8abf42d5ea7f4197b142a9a8f87b13bc70e)
 - **2026-10-26** — Refresh official sources daily at midnight IST with review queue · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/f9f85aa5781075d7218e138092ebe8bc84eaac4a)
-- **2026-10-26** — Fix consistent navigation spacing across desktop and mobile · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/9adeba12808646005378b3512bc80f8d2c7e0210)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
