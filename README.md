@@ -12,11 +12,11 @@ Hi, I’m Shrey - an AI Engineer who loves turning ideas into systems people can
 
 ### Current focus
 
-Agentic AI systems, LLM fine-tuning, and applied computer vision — building tools that go from research to something deployable.
+Agentic AI systems, retrieval-augmented LLM applications, and healthcare ML — building tools that go from research to something deployable.
 
 ## `01 /` Projects
 
-My work spans information retrieval, evidence analysis, computer vision, and AI application deployment. The previews below are actual application screenshots; click a project to explore its code.
+My work spans agentic AI, retrieval-augmented LLM systems, healthcare ML, and evidence analysis. The previews below are actual application screenshots; click a project to explore its code.
 
 <table>
 <tr>
