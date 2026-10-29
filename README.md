@@ -53,9 +53,9 @@ My work spans information retrieval, evidence analysis, computer vision, and AI 
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence"><img src="assets/screenshots/bhopal-safety.png" width="100%" alt="Bhopal Safety Intelligence application screenshot: interactive safety map, incident filters, police stations, and safe corridors" /></a>
+<a href="https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence"><img src="assets/screenshots/bhopal-safety.png" width="100%" alt="Bhopal Safety Intelligence application screenshot: interactive safety map, publication filters, police stations, and safe corridors" /></a>
 <h3>05 · Bhopal Safety Intelligence</h3>
-<p>A mobile-friendly civic safety dashboard for Bhopal with interactive crime maps, police-station proximity analysis, hotspot exploration, and safe-corridor overlays. Built around calibrated synthetic incident data.</p>
+<p>A mobile-friendly civic safety dashboard for Bhopal with interactive crime maps, police-station proximity analysis, publication-based locality charts, and safe-corridor overlays. Built on 10 reviewed official Bhopal Police publications, with a daily source-validated refresh.</p>
 <p><code>GEOSPATIAL ANALYTICS</code> <code>STREAMLIT</code> <code>LEAFLET</code> <code>MOBILE-FRIENDLY</code></p>
 <p><a href="https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence">Explore repository ↗</a> · <a href="https://bhopalcrimesafety.streamlit.app/">Open live demo ↗</a></p>
 </td>
