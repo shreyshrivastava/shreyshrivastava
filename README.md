@@ -89,11 +89,11 @@ My work spans agentic AI, retrieval-augmented LLM systems, healthcare ML, and ev
 A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-11-04** — README: humanizer pass on fix and trace sections · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/67c443a699e947c346411784d2d38047418690cc)
 - **2026-11-04** — Don&\#x27;t write bytecode in agent-run commands · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/fa3a5b4596206aebe39146c21b9ecdcbaf02eafa)
 - **2026-11-04** — Add agent-ops fix and run traces · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/c268296757f9a68f9ceae58ca0f4e2de9009d412)
 - **2026-11-04** — README: lead with the agent, benchmark as evidence · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/bc731bf263e3ce3810ac17e0d183d4dca1a11be3)
 - **2026-11-04** — README: plainer wording \(humanizer pass\) · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/6b20eaa086ea1aa95810bdd3efc65d6c35a4984b)
-- **2026-11-04** — README: fix section reference · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/6c6eb359fc0a098ea81182483a466f9f7478a938)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
