@@ -89,21 +89,21 @@ My work spans agentic AI, retrieval-augmented LLM systems, healthcare ML, and ev
 A running log of what I’ve been working on, using my own commit messages from my public repositories. Each entry links to the change behind the update.
 
 <!-- RECENT-COMMITS:START -->
-- **2026-10-29** — Align profile focus with resume: remove fine-tuning claim, match project focus · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/6327d2c091de65234eb98cf4247d0d91c8e88e89)
-- **2026-10-29** — Update README.md · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/9fa61d78761957bef7ebf955580af1a62bdcb0b2)
-- **2026-10-29** — Remove current snapshot information from README · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/d9e4ee47ae91fec69b7cb8ade0c0a27a1ce51f4f)
-- **2026-10-29** — Describe Bhopal Safety Intelligence with reviewed official data · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/4704a8abf42d5ea7f4197b142a9a8f87b13bc70e)
-- **2026-10-26** — Refresh official sources daily at midnight IST with review queue · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/f9f85aa5781075d7218e138092ebe8bc84eaac4a)
+- **2026-11-04** — Don&\#x27;t write bytecode in agent-run commands · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/fa3a5b4596206aebe39146c21b9ecdcbaf02eafa)
+- **2026-11-04** — Add agent-ops fix and run traces · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/c268296757f9a68f9ceae58ca0f4e2de9009d412)
+- **2026-11-04** — README: lead with the agent, benchmark as evidence · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/bc731bf263e3ce3810ac17e0d183d4dca1a11be3)
+- **2026-11-04** — README: plainer wording \(humanizer pass\) · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/6b20eaa086ea1aa95810bdd3efc65d6c35a4984b)
+- **2026-11-04** — README: fix section reference · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/6c6eb359fc0a098ea81182483a466f9f7478a938)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
 
 <!-- RECENT-REPOS:START -->
+- [agent-ops](https://github.com/shreyshrivastava/agent-ops) — A coding agent that runs on your laptop with a local model \(Ollama\) and asks before every file change or command.
 - [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
 - [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 - [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
 - [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
-- [ats-resume-checker](https://github.com/shreyshrivastava/ats-resume-checker) — ATS resume checker with deterministic resume-job scoring, PDF extraction, report downloads, and optional local Gemma 3 explanations.
 <!-- RECENT-REPOS:END -->
 
 ---
