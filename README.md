@@ -119,21 +119,21 @@ The full list is on [my website](https://shreyshrivastava.com/projects.html).
 What I’ve been working on lately, pulled from my own commit messages in my public repos. Each line links to the change.
 
 <!-- RECENT-COMMITS:START -->
-- **2026-11-05** — README: use the website&\#x27;s wording and structure · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/10c17b18979db6ef680c8c604ea061f7a8be499a)
-- **2026-11-05** — Rebuild site with one continuous journey, plain-language content and new home · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/da6e34c32779679d563e597191d69743bb97a725)
-- **2026-11-04** — README: humanizer pass on fix and trace sections · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/67c443a699e947c346411784d2d38047418690cc)
-- **2026-11-04** — Don&\#x27;t write bytecode in agent-run commands · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/fa3a5b4596206aebe39146c21b9ecdcbaf02eafa)
-- **2026-11-04** — Add agent-ops fix and run traces · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/c268296757f9a68f9ceae58ca0f4e2de9009d412)
+- **2026-11-05** — Merge pull request \#5 from shreyshrivastava/redesign-humanize · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/684ecb3940a0bce72dcd33728f4d6793cdc7acb3)
+- **2026-11-05** — Mark each step in the demo video and tidy plan citations · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/2ccf358773749ca1a9346baa3b6cabc2cde13994)
+- **2026-11-05** — Show plan citations, restore benchmarks section, fix demo link · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/f6e0a3d6deec49f7dd04738faf8b6d6934212af1)
+- **2026-11-05** — Merge pull request \#4 from shreyshrivastava/redesign-humanize · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/5be3060ab8d53ba9b652231a66e5840df5109d3d)
+- **2026-11-05** — Show the demo video in the README and keep only the faithfulness check · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/326b55f8a13607b6c7260c448260952b84733ed6)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
 
 <!-- RECENT-REPOS:START -->
+- [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
 - [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
 - [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
 - [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 - [agent-ops](https://github.com/shreyshrivastava/agent-ops) — A coding agent that runs on your laptop with a local model \(Ollama\) and asks before every file change or command.
-- [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
 <!-- RECENT-REPOS:END -->
 
 ---
