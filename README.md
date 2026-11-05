@@ -119,11 +119,11 @@ The full list is on [my website](https://shreyshrivastava.com/projects.html).
 What I’ve been working on lately, pulled from my own commit messages in my public repos. Each line links to the change.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-11-05** — README: use the website&\#x27;s wording and structure · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/10c17b18979db6ef680c8c604ea061f7a8be499a)
 - **2026-11-05** — Rebuild site with one continuous journey, plain-language content and new home · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/da6e34c32779679d563e597191d69743bb97a725)
 - **2026-11-04** — README: humanizer pass on fix and trace sections · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/67c443a699e947c346411784d2d38047418690cc)
 - **2026-11-04** — Don&\#x27;t write bytecode in agent-run commands · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/fa3a5b4596206aebe39146c21b9ecdcbaf02eafa)
 - **2026-11-04** — Add agent-ops fix and run traces · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/c268296757f9a68f9ceae58ca0f4e2de9009d412)
-- **2026-11-04** — README: lead with the agent, benchmark as evidence · [agent-ops](https://github.com/shreyshrivastava/agent-ops) · [view commit](https://github.com/shreyshrivastava/agent-ops/commit/bc731bf263e3ce3810ac17e0d183d4dca1a11be3)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
