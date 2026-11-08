@@ -119,20 +119,20 @@ The full list is on [my website](https://shreyshrivastava.com/projects.html).
 What I’ve been working on lately, pulled from my own commit messages in my public repos. Each line links to the change.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-11-08** — Retheme README graphics to match shreyshrivastava.com · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/29d1ed1bd371858ff6bcd1d688d6ceb42580b2ed)
+- **2026-11-08** — Bolder text, organic scroll-in and a frosted project list · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/f5331166530dfe537a3e27de864bd22e163d9340)
+- **2026-11-08** — Launch v4: single-page portfolio with chapters, 3D and luxury palette · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/eaf774f18c35377d8ec78fcf871efb9386113372)
 - **2026-11-05** — Merge pull request \#5 from shreyshrivastava/redesign-humanize · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/684ecb3940a0bce72dcd33728f4d6793cdc7acb3)
 - **2026-11-05** — Mark each step in the demo video and tidy plan citations · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/2ccf358773749ca1a9346baa3b6cabc2cde13994)
-- **2026-11-05** — Show plan citations, restore benchmarks section, fix demo link · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/f6e0a3d6deec49f7dd04738faf8b6d6934212af1)
-- **2026-11-05** — Merge pull request \#4 from shreyshrivastava/redesign-humanize · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/5be3060ab8d53ba9b652231a66e5840df5109d3d)
-- **2026-11-05** — Show the demo video in the README and keep only the faithfulness check · [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) · [view commit](https://github.com/shreyshrivastava/AcademicForge/commit/326b55f8a13607b6c7260c448260952b84733ed6)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
 
 <!-- RECENT-REPOS:START -->
 - [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
+- [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
 - [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 - [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
-- [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
 - [agent-ops](https://github.com/shreyshrivastava/agent-ops) — A coding agent that runs on your laptop with a local model \(Ollama\) and asks before every file change or command.
 <!-- RECENT-REPOS:END -->
 
