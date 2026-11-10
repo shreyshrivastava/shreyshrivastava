@@ -119,21 +119,21 @@ The full list is on [my website](https://shreyshrivastava.com/projects.html).
 What I’ve been working on lately, pulled from my own commit messages in my public repos. Each line links to the change.
 
 <!-- RECENT-COMMITS:START -->
-- **2026-11-10** — Order projects with AcademicForge and Bhopal first · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/0fd4babdc991e3ad707e802383c596564738a697)
-- **2026-11-10** — Launch v7: terminal design in black, white and gold · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/3c3d2e0df0dd45baa9807a174ca0ce940c230ec3)
-- **2026-11-10** — Add Bhopal Safety Intelligence demo video · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/d6bde87eda22da3e921b71fefb7586cbaf36838d)
-- **2026-11-10** — Merge latest official snapshot before going live · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/59d4be60407c13ead10bbd429f93c8ea43c24d1c)
-- **2026-11-10** — Add red interface colors and a README walkthrough · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/0efb3a2d110a3f6700f2d4aac19c5c447c700d52)
+- **2026-11-10** — Redesign the demo interface and rewrite the README \(\#4\) · [ai-healthcare-intel-engine](https://github.com/shreyshrivastava/ai-healthcare-intel-engine) · [view commit](https://github.com/shreyshrivastava/ai-healthcare-intel-engine/commit/41fbd572fe8e67fe0d693e2fb0b5a4e344ef2748)
+- **2026-11-10** — Redesign the demo interface and rewrite the README · [ai-healthcare-intel-engine](https://github.com/shreyshrivastava/ai-healthcare-intel-engine) · [view commit](https://github.com/shreyshrivastava/ai-healthcare-intel-engine/commit/73debd1369f7a32c54323a978e3a201e9299df75)
+- **2026-11-10** — Add Healthcare Intelligence Engine demo video to the projects page · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/7a07d2ff75088f9dea0138529079a45b368e848c)
+- **2026-11-10** — Add FallGuard AI demo video to the projects page · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/6373b4fa93dd74cd25e3aaee2c8a9dfcdda7a74e)
+- **2026-11-10** — Continuous scroll across pages and subtle 3D on phones · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/61b09d3321f337d5b638a40702b6b25c7e2b29e1)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
 
 <!-- RECENT-REPOS:START -->
 - [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
-- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
+- [claim-detection-project-on-Russia-and-conflict](https://github.com/shreyshrivastava/claim-detection-project-on-Russia-and-conflict) — MSc dissertation project at Queen Mary University of London — Claim evidence checker that turns notebook-era BERT/SVM work into a tested FastAPI evidence-ranking and stance-screening pipeline.
+- [ai-healthcare-intel-engine](https://github.com/shreyshrivastava/ai-healthcare-intel-engine) — Healthcare AI demo with deterministic symptom triage, second-opinion risk checks, drug-interaction screening, CI, and Streamlit deployment.
 - [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
-- [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
-- [agent-ops](https://github.com/shreyshrivastava/agent-ops) — A coding agent that runs on your laptop with a local model \(Ollama\) and asks before every file change or command.
+- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 <!-- RECENT-REPOS:END -->
 
 ---
