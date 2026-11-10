@@ -119,19 +119,19 @@ The full list is on [my website](https://shreyshrivastava.com/projects.html).
 What I’ve been working on lately, pulled from my own commit messages in my public repos. Each line links to the change.
 
 <!-- RECENT-COMMITS:START -->
-- **2026-11-09** — AcademicForge demo video and &quot;Try it live&quot; links · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/d40df0d42e86ec0440286080a767ea297846d230)
-- **2026-11-09** — YC-style landing, visibility pass, impact ordering and live demos · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/351a4fe7e3bd933b0862c97234989975130fe5ec)
-- **2026-11-08** — Retheme README graphics to match shreyshrivastava.com · [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava/commit/29d1ed1bd371858ff6bcd1d688d6ceb42580b2ed)
-- **2026-11-08** — Bolder text, organic scroll-in and a frosted project list · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/f5331166530dfe537a3e27de864bd22e163d9340)
-- **2026-11-08** — Launch v4: single-page portfolio with chapters, 3D and luxury palette · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/eaf774f18c35377d8ec78fcf871efb9386113372)
+- **2026-11-10** — Order projects with AcademicForge and Bhopal first · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/0fd4babdc991e3ad707e802383c596564738a697)
+- **2026-11-10** — Launch v7: terminal design in black, white and gold · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/3c3d2e0df0dd45baa9807a174ca0ce940c230ec3)
+- **2026-11-10** — Add Bhopal Safety Intelligence demo video · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/d6bde87eda22da3e921b71fefb7586cbaf36838d)
+- **2026-11-10** — Merge latest official snapshot before going live · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/59d4be60407c13ead10bbd429f93c8ea43c24d1c)
+- **2026-11-10** — Add red interface colors and a README walkthrough · [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) · [view commit](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence/commit/0efb3a2d110a3f6700f2d4aac19c5c447c700d52)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
 
 <!-- RECENT-REPOS:START -->
-- [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
-- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 - [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
+- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
+- [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
 - [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
 - [agent-ops](https://github.com/shreyshrivastava/agent-ops) — A coding agent that runs on your laptop with a local model \(Ollama\) and asks before every file change or command.
 <!-- RECENT-REPOS:END -->
