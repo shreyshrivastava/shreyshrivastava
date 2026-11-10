@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
 <title id="title">Research → Build → Ship</title>
 <desc id="desc">Research, Build, and Ship illuminate in sequence as a signal travels through the workflow. Let’s make something useful.</desc>
-<rect width="1200" height="200" rx="18" fill="#161614"/>
+<rect width="1200" height="200" rx="18" fill="#101010"/>
 <g font-family="Arial,sans-serif" font-size="40" font-weight="700" text-anchor="middle">
-<text x="320" y="83" fill="#7fae98">Research<animate attributeName="opacity" values="1;1;.35;.35;.35;.35;1" keyTimes="0;.16;.33;.5;.66;.83;1" dur="6s" repeatCount="indefinite"/></text>
-<text x="485" y="83" fill="#b0a99c">→</text>
-<text x="600" y="83" fill="#d8c08f">Build<animate attributeName="opacity" values=".35;.35;1;1;.35;.35;.35" keyTimes="0;.16;.33;.5;.66;.83;1" dur="6s" repeatCount="indefinite"/></text>
-<text x="715" y="83" fill="#b0a99c">→</text>
-<text x="860" y="83" fill="#d8c08f">Ship<animate attributeName="opacity" values=".35;.35;.35;.35;1;1;.35" keyTimes="0;.16;.33;.5;.66;.83;1" dur="6s" repeatCount="indefinite"/></text>
+<text x="320" y="83" fill="#a98a45">Research<animate attributeName="opacity" values="1;1;.35;.35;.35;.35;1" keyTimes="0;.16;.33;.5;.66;.83;1" dur="6s" repeatCount="indefinite"/></text>
+<text x="485" y="83" fill="#bdb9af">→</text>
+<text x="600" y="83" fill="#e4c98a">Build<animate attributeName="opacity" values=".35;.35;1;1;.35;.35;.35" keyTimes="0;.16;.33;.5;.66;.83;1" dur="6s" repeatCount="indefinite"/></text>
+<text x="715" y="83" fill="#bdb9af">→</text>
+<text x="860" y="83" fill="#e4c98a">Ship<animate attributeName="opacity" values=".35;.35;.35;.35;1;1;.35" keyTimes="0;.16;.33;.5;.66;.83;1" dur="6s" repeatCount="indefinite"/></text>
 </g>
-<rect x="230" y="111" width="720" height="3" rx="1.5" fill="#3a362f"/>
-<circle r="6" fill="#7fae98"><animateMotion path="M230 112.5 L950 112.5" dur="6s" repeatCount="indefinite"/><animate attributeName="fill" values="#7FAE98;#D8C08F;#C2A26A;#7FAE98" dur="6s" repeatCount="indefinite"/></circle>
-<text x="600" y="162" fill="#b0a99c" font-family="Arial,sans-serif" font-size="18" text-anchor="middle">Let’s make something useful.</text>
+<rect x="230" y="111" width="720" height="3" rx="1.5" fill="#3a3120"/>
+<circle r="6" fill="#a98a45"><animateMotion path="M230 112.5 L950 112.5" dur="6s" repeatCount="indefinite"/><animate attributeName="fill" values="#7FAE98;#D8C08F;#C2A26A;#7FAE98" dur="6s" repeatCount="indefinite"/></circle>
+<text x="600" y="162" fill="#bdb9af" font-family="Arial,sans-serif" font-size="18" text-anchor="middle">Let’s make something useful.</text>
 </svg>
