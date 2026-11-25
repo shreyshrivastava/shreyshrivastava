@@ -119,20 +119,20 @@ The full list is on [my website](https://shreyshrivastava.com/projects.html).
 What I’ve been working on lately, pulled from my own commit messages in my public repos. Each line links to the change.
 
 <!-- RECENT-COMMITS:START -->
+- **2026-11-25** — Shorter section headlines and desktop-matching animation on phones · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/4438766c291f535f4360fc8a6b66847a7f069bfb)
+- **2026-11-25** — Rewrite content for recruiters, trim to ten projects, new logo · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/cf0c0c9d34da24d780076955e214e66f593a048b)
 - **2026-11-10** — Redesign the demo interface and rewrite the README \(\#4\) · [ai-healthcare-intel-engine](https://github.com/shreyshrivastava/ai-healthcare-intel-engine) · [view commit](https://github.com/shreyshrivastava/ai-healthcare-intel-engine/commit/41fbd572fe8e67fe0d693e2fb0b5a4e344ef2748)
 - **2026-11-10** — Redesign the demo interface and rewrite the README · [ai-healthcare-intel-engine](https://github.com/shreyshrivastava/ai-healthcare-intel-engine) · [view commit](https://github.com/shreyshrivastava/ai-healthcare-intel-engine/commit/73debd1369f7a32c54323a978e3a201e9299df75)
 - **2026-11-10** — Add Healthcare Intelligence Engine demo video to the projects page · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/7a07d2ff75088f9dea0138529079a45b368e848c)
-- **2026-11-10** — Add FallGuard AI demo video to the projects page · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/6373b4fa93dd74cd25e3aaee2c8a9dfcdda7a74e)
-- **2026-11-10** — Continuous scroll across pages and subtle 3D on phones · [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) · [view commit](https://github.com/shreyshrivastava/shreyshrivastava.github.io/commit/61b09d3321f337d5b638a40702b6b25c7e2b29e1)
 <!-- RECENT-COMMITS:END -->
 
 ### Active repositories
 
 <!-- RECENT-REPOS:START -->
-- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
-- [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
-- [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
 - [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
+- [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
+- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
+- [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
 - [claim-detection-project-on-Russia-and-conflict](https://github.com/shreyshrivastava/claim-detection-project-on-Russia-and-conflict) — MSc dissertation project at Queen Mary University of London — Claim evidence checker that turns notebook-era BERT/SVM work into a tested FastAPI evidence-ranking and stance-screening pipeline.
 <!-- RECENT-REPOS:END -->
 
