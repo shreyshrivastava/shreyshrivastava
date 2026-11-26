@@ -129,11 +129,11 @@ What I’ve been working on lately, pulled from my own commit messages in my pub
 ### Active repositories
 
 <!-- RECENT-REPOS:START -->
-- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
+- [agent-ops](https://github.com/shreyshrivastava/agent-ops) — A coding agent that runs on your laptop with a local model \(Ollama\) and asks before every file change or command.
 - [shreyshrivastava](https://github.com/shreyshrivastava/shreyshrivastava) — Config files for my GitHub profile.
+- [bhopal-crime-safety-intelligence](https://github.com/shreyshrivastava/bhopal-crime-safety-intelligence) — Interactive geospatial crime mapping, police proximity analysis, and civic safety intelligence dashboard for Bhopal, MP
 - [shreyshrivastava.github.io](https://github.com/shreyshrivastava/shreyshrivastava.github.io) — Explore the repository and its latest changes.
 - [AcademicForge](https://github.com/shreyshrivastava/AcademicForge) — Hackathon research assistant with paper search, summaries, guidance, and a cost-controlled Streamlit demo with request limiting.
-- [claim-detection-project-on-Russia-and-conflict](https://github.com/shreyshrivastava/claim-detection-project-on-Russia-and-conflict) — MSc dissertation project at Queen Mary University of London — Claim evidence checker that turns notebook-era BERT/SVM work into a tested FastAPI evidence-ranking and stance-screening pipeline.
 <!-- RECENT-REPOS:END -->
 
 ---
